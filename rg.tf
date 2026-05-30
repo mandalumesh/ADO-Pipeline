@@ -17,3 +17,7 @@ resource"azurerm_resource_group""rg3" {
 name = "test-rg4"
 location = "central india"
 }
+resource"azurerm_resource_group""rg4" {
+name = "test-rg5"
+location = "central india"
+}
