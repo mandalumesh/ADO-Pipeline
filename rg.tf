@@ -21,7 +21,3 @@ resource"azurerm_resource_group""rg4" {
 name = "test-rg5"
 location = "central india"
 }
-resource"azurerm_resource_group""rg5" {
-name = "test-rg6"
-location = "central india"
-}
